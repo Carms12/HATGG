@@ -1,4 +1,4 @@
-public class Addition {
+public class ADDITION {
     public static void main(String[] args) {
         // Declare two numbers
         int num1 = 5;
